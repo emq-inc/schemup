@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 requires = [
     "six==1.15.0",
-    "PyYAML==5.4.1",
+    "PyYAML==5.3.1",
     "psycopg2-binary==2.8.6"
 ]
 
